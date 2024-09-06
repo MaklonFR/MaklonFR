@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m MaklonFR<br>- 👀 I’m interested in Computer Science<br>- 🌱 I’m currently learning Sofware Engineering, Mobile Programming, Web Programming, Data Science and Database Engineering<br>- 💞️ I’m looking to collaborate on Sofware Engineering<br>- 📫 How to reach me Instagram (Maklon Frare)<br><br><!---<br>MaklonFR/MaklonFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
+- 👋 Hi, I’m MaklonFR<br>- 👀 I’m interested in Computer Science<br>- 🌱 I’m currently learning Sofware Engineering, Mobile Programming, Web Programming, Data Science and Database Engineering<br>- 💞️ I’m looking to collaborate on Sofware Engineering<br>- 📫 How to reach me Instagram (Maklon Frare)<br><br>
 
 
 ## 🌐 Socials:
